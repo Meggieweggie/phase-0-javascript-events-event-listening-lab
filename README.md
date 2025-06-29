@@ -34,7 +34,7 @@ const input = document.getElementById('button');
 input.addEventListener('click', function() {
   alert('I was clicked!');
 });
-```
+```'phase-0-javascript-events-event-listening-lab'
 
 Now when you click inside of `input#button`, you will get an alert box.
 
